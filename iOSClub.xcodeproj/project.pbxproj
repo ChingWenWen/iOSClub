@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		44725F1D2123EF9B004674F2 /* Rv.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44725F1C2123EF9B004674F2 /* Rv.swift */; };
+		44725F1F2123EFC3004674F2 /* Truck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44725F1E2123EFC3004674F2 /* Truck.swift */; };
 		44CF29EB2122A1640089011D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44CF29EA2122A1640089011D /* AppDelegate.swift */; };
 		44CF29ED2122A1640089011D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44CF29EC2122A1640089011D /* ViewController.swift */; };
 		44CF29F02122A1640089011D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 44CF29EE2122A1640089011D /* Main.storyboard */; };
@@ -35,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		44725F1C2123EF9B004674F2 /* Rv.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rv.swift; sourceTree = "<group>"; };
+		44725F1E2123EFC3004674F2 /* Truck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Truck.swift; sourceTree = "<group>"; };
 		44CF29E72122A1630089011D /* iOSClub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOSClub.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		44CF29EA2122A1640089011D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		44CF29EC2122A1640089011D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -106,6 +110,8 @@
 				44CF29F32122A1640089011D /* LaunchScreen.storyboard */,
 				44CF29F62122A1640089011D /* Info.plist */,
 				44CF2A182122A3290089011D /* Car.swift */,
+				44725F1C2123EF9B004674F2 /* Rv.swift */,
+				44725F1E2123EFC3004674F2 /* Truck.swift */,
 			);
 			path = iOSClub;
 			sourceTree = "<group>";
@@ -264,7 +270,9 @@
 			files = (
 				44CF29ED2122A1640089011D /* ViewController.swift in Sources */,
 				44CF29EB2122A1640089011D /* AppDelegate.swift in Sources */,
+				44725F1F2123EFC3004674F2 /* Truck.swift in Sources */,
 				44CF2A192122A3290089011D /* Car.swift in Sources */,
+				44725F1D2123EF9B004674F2 /* Rv.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
